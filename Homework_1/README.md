@@ -81,11 +81,11 @@
 
 4. *The tests for handleTxs function is more like a real situation in real coin flow. I designed a situation to test it. The coin-flow of the case is shown below.*  
 
-    ![Image loading...](./homework_1_test_account.png)
+    ![Image loading...](https://github.com/preciousky/PHBS_BlockChain_2019/blob/master/Homework_1/homework_1_test_account.png)
 
     *and I organized the coin flow into transactions like this.*
 
-    ![Image loading...](./homework_1_test_tx.png)
+    ![Image loading...](https://github.com/preciousky/PHBS_BlockChain_2019/blob/master/Homework_1/homework_1_test_tx.png)
 
     *HandleTxs function will scan the transactions in order Tx0 to Tx5 to decide which transactions are valid.*
 
