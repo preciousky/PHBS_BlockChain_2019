@@ -1,7 +1,6 @@
 # HOMEWORK_1
 *Name:* **高天琦**  
 *Class:* **2019 FinTech**  
-*Student ID:* **1901212578**
 
 ### **Ⅰ - Preparations before Coding**
 1. *To understand the requirements in detail, I read the provided files  carefully and I added enough annotations into the files according the software principles.*
