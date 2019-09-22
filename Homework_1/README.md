@@ -92,4 +92,4 @@
     >Normally, the coin flow shown in the first image as dotted line are not valid, thus the transactions shown in second image in grey are not valid because of double-spending. Then handleTxs function should return a list of Tx0, Tx1, Tx2, Tx4.
 5. *Results of testing*: *The functions pass all of the above tests, returning the expected results. Below is the screenshot in IntelliJ IDEA IDE.*
 
-    ![Image loading...](./homework_1_result_screenshot.png)
+    ![Image loading...](https://github.com/preciousky/PHBS_BlockChain_2019/blob/master/Homework_1/homework_1_result_screenshot.png)
