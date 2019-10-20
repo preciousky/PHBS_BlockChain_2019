@@ -15,6 +15,7 @@ And I use Hash structure to maintain the blocks, it is useful to be efficient to
 
 ### Testing
 I finished the testing in two files, one fucuses on the *BlockChain Class*, the other focuses on the *BlockHandler Class.*
+
 |Functionality of Cases|Functions Name|Data for Testing|Expected Results|
 | --- | --- | --- | --- |
 |test we can get the max height block|testGetMaxHeightBlock|genesisBlock|the hash of genesisBlock|
