@@ -29,7 +29,7 @@ I finished the testing in two files, one fucuses on the *BlockChain Class*, the 
 |test we can add a block not on the mainbranch|testProcessBlock| a random block| the correct new height of the chain|
 
 The most test cases is based on the structure of blockchain below. 
-![PICTURE](./1.png)
+![PICTURE](https://github.com/preciousky/PHBS_BlockChain_2019/blob/master/homework_2/1.png)
 Most of the test cases are designed on block 1-0, block 1-1, block 2, and block 11.
 ![PICTURE](./2.png)
 Finally, all the test cases are passed.
