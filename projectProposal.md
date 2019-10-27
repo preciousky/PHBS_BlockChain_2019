@@ -24,7 +24,7 @@
 **(2.2) Time-consuming**
 >Because of our TA’s feature, it will cause big problems if the testament is distorted by others. The existing system that prevents these kinds of situations are highly time consuming. In fact, the more complex the method is, the more difficult others can distort the content. 
 
-**2.3	Problems about Complex Rules**
+**(2.3)	Problems about Complex Rules**
 >If anyone wants to set a complex rule of testament, it’s gonna take more time than a normal testament. And how to enforce the rules in the future is also a big problem. If others do not follow, it’s going to be a lot of endless law suit.
 
 ## Part Two: Solution
@@ -32,7 +32,7 @@
 >Block Chain technology is based on a data structure built up by hash pointers and hash pointers can keep the all information on the same blockchain related tightly to each other. That means if you want to make any piece of information tampered and maintain the validation of the information, you must try to make all corresponding data changed the same time in a designate way. This is usually impossible.
 
 
-**Pain point 2: Time-consuming VS Highly Efficient Online System**
+**Pain point 2: Time-consuming versus Highly Efficient Online System**
 >Block chain is deployed on information systems, you can finish all things with a terminal. The development of information technology and user interface design makes it easier and easier for customers to operate machine and manage personal data. Blockchain as a new technology is also an helpful interface to greatly improve the efficiency of information process.
 
 **Pain point 3: Complex Rules in Testaments versus Smart Contract**
